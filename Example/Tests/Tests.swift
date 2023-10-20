@@ -1,5 +1,4 @@
 import XCTest
-import MyModule
 
 class Tests: XCTestCase {
     
